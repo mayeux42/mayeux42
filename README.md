@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-Currently starting in this new world !
 <!--
 **mayeux42/mayeux42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
